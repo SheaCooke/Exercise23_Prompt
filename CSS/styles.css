@@ -1,2 +1,16 @@
 ﻿body {
+    background-color: lightgrey;
+    color: blue;
+}
+
+li {
+    background-color : red;
+}
+
+h2{
+    color : green;
+}
+
+p{
+    outline : dashed;
 }
